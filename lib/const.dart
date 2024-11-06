@@ -1,0 +1,2 @@
+const cryptoApiKey =
+    "d8254156d54ec5b41a1c114b93432983ec191363a8af0aea108916bd0c85";
